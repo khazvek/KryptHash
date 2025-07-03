@@ -48,7 +48,7 @@
 ## 🚀 Démarrage rapide
 
 ```bash
-git clone https://github.com/tonpseudo/KryptHash.git
+git clone https://github.com/khazvek/KryptHash.git
 cd KryptHash
 npm install
 npm run dev
