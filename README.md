@@ -1,4 +1,4 @@
-# 🧠 KryptHash
+# 🧠 KryptHashy
 
 **KryptHash** est une application web simple, rapide et efficace pour :
 - Générer des hashs à partir d’un texte (MD5, SHA1, SHA256, SHA512, bcrypt…)
